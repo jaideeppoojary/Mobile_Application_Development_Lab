@@ -1,0 +1,18 @@
+{
+  "City": {
+    "1": {
+      "name": "Udupi",
+      "logitute": 25.99554,
+      "latitude": -85.569821,
+      "temparature": 34,
+      "humidity": "90%"
+    },
+    "2": {
+      "name": "Mangalore",
+      "logitute": 14.99554,
+      "latitude": 59.78821,
+      "temparature": 29,
+      "humidity": "94%"
+    }
+  }
+}

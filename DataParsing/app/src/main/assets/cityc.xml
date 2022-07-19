@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Records>
+    <City id="1">
+        <name>Udupi</name>
+        <logitute>25.99554</logitute>
+        <latitude>-85.569821</latitude>
+        <temparature>34</temparature>
+        <humidity>90%</humidity>
+    </City>
+    <City id="2">
+        <name>Mangalore</name>
+        <logitute>14.99554</logitute>
+        <latitude>59.78821</latitude>
+        <temparature>29</temparature>
+        <humidity>94%</humidity>
+    </City>
+</Records>
