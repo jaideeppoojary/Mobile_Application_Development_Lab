@@ -3,6 +3,9 @@
  > #### VTU  6th Semister 
 
  
+ > # Manual 
+  [Android Lab Manual 18CSMP68 ](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/blob/main/18CSMP68_MAD_Manual.pdf)
+ 
  ## List Of Projects
  1. [Visiting Card.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/VisitingCard)
  2. [Simple Calculator.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/SimpleCalculator)
@@ -12,3 +15,4 @@
  6. [Data Parsing.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/DataParsing)
  7. [Text-to-Speech.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/TextToSpeachLab)
  8. [Phone Dialer.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/PhoneApp)
+
