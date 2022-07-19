@@ -1,4 +1,7 @@
 ﻿# MOBILE APPLICATION DEVELOPMENT
+ > ## Subject Code : 18CSMP68
+ > #### VTU  6th Semister 
+
  
  ## List Of Projects
  1. [Visiting Card.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/VisitingCard)
