@@ -3,8 +3,10 @@
  > #### VTU  6th Semister 
 
  
- > # Manual 
-  [Android Lab Manual 18CSMP68 ](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/blob/main/18CSMP68_MAD_Manual.pdf)
+ ## Manual 
+   * [Android Lab Manual 18CSMP68 ( Color Print Version )](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/blob/main/18CSMP68_MAD_Manual.pdf)
+  
+   * [Android Lab Manual 18CSMP68 ( Black-And-White Print Version )](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/blob/main/18CSMP68_MAD_Manual_BlackAndWhite_Xerox_format.pdf)
  
  ## List Of Projects
  1. [Visiting Card.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/VisitingCard)
