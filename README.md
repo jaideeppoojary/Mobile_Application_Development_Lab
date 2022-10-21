@@ -14,6 +14,7 @@
  3. [Signup & Login.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/SignUpLoginProject)
  4. [Wallpaper Changer.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/WallpaperChange)
  5. [Counter Application.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/CounterApp)
+    5.1 [ Simple Counter Application](https://github.com/CsWebAutomationTeam/Mobile_Application_Development_Lab/tree/main/CounterAppSimple/CounterApp)
  6. [Data Parsing.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/DataParsing)
  7. [Text-to-Speech.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/TextToSpeachLab)
  8. [Phone Dialer.](https://github.com/jaideeppoojary/Mobile_Application_Development_Lab/tree/main/PhoneApp)
